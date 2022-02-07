@@ -57,7 +57,7 @@ img{
     height: auto;
 }
 
-h2{
+h1{
     font-family: "Big Shoulders Display", sans-serif;
     text-transform:uppercase;
     color: var(--very-light-gray);
@@ -154,7 +154,7 @@ footer{
 
     }
 
-    h2{
+    h1{
         font-size: 2.5rem;
         margin-bottom: 1.5rem;
     }
